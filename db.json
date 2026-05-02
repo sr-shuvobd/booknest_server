@@ -7,7 +7,7 @@
       "description": "A mysterious story set deep inside a silent forest where secrets unfold.",
       "category": "Story",
       "available_quantity": 5,
-      "image_url": "https://i.ibb.co/8r0W9Xc/book1.jpg"
+      "image_url": "https://i.ibb.co.com/7xZ2h2fg/MV5-BODUw-Mj-Rk-YTUt-NDVi-OS00-MDBk-LWEw-Mj-At-Mm-E1-ODAz-MWJl-OTFk-Xk-Ey-Xk-Fqc-Gc-V1.jpg"
     },
     {
       "id": 2,
@@ -25,7 +25,7 @@
       "description": "Explore the mysteries of the universe and space science.",
       "category": "Science",
       "available_quantity": 4,
-      "image_url": "https://i.ibb.co/FW7nYcM/book3.jpg"
+      "image_url": "https://i.ibb.co.com/vCRkS5Cr/javascript-mastery-a-step-by-step-beginner-s-guide-to-learning-javascript-programming.jpg"
     },
     {
       "id": 4,
@@ -34,7 +34,7 @@
       "description": "An epic journey through a forgotten kingdom full of adventure.",
       "category": "Story",
       "available_quantity": 6,
-      "image_url": "https://i.ibb.co/tM3KJgB/book4.jpg"
+      "image_url": "https://i.ibb.co.com/YFSLt7tD/lost.jpg"
     },
     {
       "id": 5,
@@ -43,7 +43,7 @@
       "description": "Learn how to build modern applications using React.",
       "category": "Tech",
       "available_quantity": 10,
-      "image_url": "https://i.ibb.co/jG1Xb8y/book5.jpg"
+      "image_url": "https://i.ibb.co.com/207kH3S3/react-in-action.jpg"
     },
     {
       "id": 6,
@@ -52,7 +52,7 @@
       "description": "An introduction to quantum physics and its real-world applications.",
       "category": "Science",
       "available_quantity": 3,
-      "image_url": "https://i.ibb.co/n0Z0Y2z/book6.jpg"
+      "image_url": "https://i.ibb.co.com/4gtxT1WV/57406422.jpg"
     },
     {
       "id": 7,
@@ -61,7 +61,7 @@
       "description": "A thrilling mystery novel that keeps you guessing till the end.",
       "category": "Story",
       "available_quantity": 7,
-      "image_url": "https://i.ibb.co/0V3ZKqk/book7.jpg"
+      "image_url": "https://i.ibb.co.com/FqbxtMbD/images.jpg"
     },
     {
       "id": 8,
@@ -70,7 +70,7 @@
       "description": "Everything you need to know about backend development with Node.js.",
       "category": "Tech",
       "available_quantity": 9,
-      "image_url": "https://i.ibb.co/YZ8r9tD/book8.jpg"
+      "image_url": "https://i.ibb.co.com/FqbxtMbD/images.jpg"
     },
     {
       "id": 9,
@@ -79,7 +79,7 @@
       "description": "Understand how the human brain works and its amazing capabilities.",
       "category": "Science",
       "available_quantity": 2,
-      "image_url": "https://i.ibb.co/kK8ZpXv/book9.jpg"
+      "image_url": "https://i.ibb.co.com/bRR7KKyk/hu.jpg"
     },
     {
       "id": 10,
@@ -88,7 +88,7 @@
       "description": "A group of friends discover secrets on a mysterious island.",
       "category": "Story",
       "available_quantity": 6,
-      "image_url": "https://i.ibb.co/v4c9J5Z/book10.jpg"
+      "image_url": "https://i.ibb.co.com/HDz6nDNm/is.jpg"
     },
     {
       "id": 11,
@@ -97,7 +97,7 @@
       "description": "Become a full stack developer with this comprehensive guide.",
       "category": "Tech",
       "available_quantity": 11,
-      "image_url": "https://i.ibb.co/3yYtT9Y/book11.jpg"
+      "image_url": "https://i.ibb.co.com/kV6tdpLT/dev.jpg"
     },
     {
       "id": 12,
@@ -106,7 +106,7 @@
       "description": "A detailed explanation of climate change and its impact.",
       "category": "Science",
       "available_quantity": 5,
-      "image_url": "https://i.ibb.co/Gk7q3sZ/book12.jpg"
+      "image_url": "https://i.ibb.co.com/mCVnKsQM/51i-Yz1-Tjr-L-SL500.jpg"
     }
   ],
   
